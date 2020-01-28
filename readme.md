@@ -10,8 +10,10 @@ datasets, the dataset of mushroom is relavetively small for our cluster and we h
 aggreagator(25mb out of 98mb)
 
 ## Script
-The corresponding script uses the pyspark api for a machine learning process on each dataset.  
-mushroom.py : load mushroom dataset and apply a Random Forest model . 
+The corresponding script uses the pyspark api for a machine learning process on each dataset
+
+mushroom.py : load mushroom dataset and apply a Random Forest model
+
 news.py : load news subset aggregator and apply a Naive Bayes model
 
 ## Results
