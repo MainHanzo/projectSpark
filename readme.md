@@ -12,6 +12,8 @@ aggreagator(25mb out of 98mb)
 ## Script
 the corrsponding script uses the pyspark api for a machine learning process on each dataset.
 
-
+## Results
+you can find all graph of our testing results in this link:
+https://docs.google.com/document/d/1B0Cqt0Zu-1gWoa7ZJwUi7KplUGI7zH7rC886_bMSOgc/edit?usp=sharing
 
 
